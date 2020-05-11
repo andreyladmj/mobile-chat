@@ -1,0 +1,2 @@
+SQLALCHEMY_DATABASE_URI='postgres://postgres:root@localhost/flask'
+SQLALCHEMY_TRACK_MODIFICATIONS=True
